@@ -326,7 +326,7 @@ const App = () => {
               </div>
               <div>
                 <h1 className="text-lg md:text-2xl font-bold leading-tight">PEDIDO DISTRIBUIDORA</h1>
-                <p className="text-blue-100 text-[10px] md:text-xs opacity-80 uppercase tracking-widest font-semibold">Tabela de Preços 2024/2025</p>
+                <p className="text-blue-100 text-[10px] md:text-xs opacity-80 uppercase tracking-widest font-semibold">Tabela de Preços 2026</p>
               </div>
             </div>
             <div className="relative group">
